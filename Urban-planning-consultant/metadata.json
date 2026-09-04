@@ -1,0 +1,6 @@
+{
+  "name": "Cố vấn Quy hoạch Đô thị AI",
+  "description": "Ứng dụng AI phân tích bản đồ không gian và đề xuất các dự án cải tạo, xây dựng đô thị tối ưu cho sự phát triển bền vững.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

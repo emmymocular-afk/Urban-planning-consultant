@@ -216,14 +216,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Maintainer: emmymocular-afk
 
-For help getting started, open an issue on the repository or create a discussion.
+<img width="215" height="500" alt="Screenshot_2026-09-05-04-03-18-706_com android chrome" src="https://github.com/user-attachments/assets/97540802-4278-4db7-80b9-d95adf2bb6e4" />
 
----
-
-Thank you for using Urban Planning Consultant — if you want, I can also:
-
-- Add a .env.example file to the repository
-- Add a sample dataset and demo project
-- Add a screenshot and assets folder
-
-Tell me which of these you'd like next and I'll create the files and commit them.
+<img width="215" height="500" alt="Screenshot_2026-09-05-04-03-35-373_com android chrome" src="https://github.com/user-attachments/assets/cae54060-0f82-4d76-aad1-f5809786ff5e" />

@@ -200,24 +200,7 @@ Please follow repository contribution guidelines if present. Add a CONTRIBUTING.
 
 ## License
 
-This project does not yet include a license file in the repository. If you want an open-source license, add a LICENSE file. A common choice is the MIT license:
-
-```
-MIT License
-
-Copyright (c) 2026 emmymocular-afk
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-[... full MIT text here ...]
-```
-
-Add a LICENSE file to the repo to make the license explicit.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -240,7 +223,7 @@ For help getting started, open an issue on the repository or create a discussion
 Thank you for using Urban Planning Consultant — if you want, I can also:
 
 - Add a .env.example file to the repository
-- Add a LICENSE file (MIT) and commit it for you
 - Add a sample dataset and demo project
+- Add a screenshot and assets folder
 
-Tell me which of these you'd like me to add next and I'll create the files and commit them.
+Tell me which of these you'd like next and I'll create the files and commit them.
